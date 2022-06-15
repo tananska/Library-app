@@ -1,0 +1,19 @@
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\bin\Debug\приложение.exe.config
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\bin\Debug\приложение.exe
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\bin\Debug\приложение.pdb
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.Form1.resources
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.Properties.Resources.resources
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.csproj.GenerateResource.Cache
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.exe
+C:\Users\Iva\Desktop\visual studio\приложение\приложение\obj\Debug\приложение.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\bin\Debug\приложение.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\bin\Debug\приложение.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\bin\Debug\приложение.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.Form1.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.Properties.Resources.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.csproj.GenerateResource.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\приложение\приложение\obj\Debug\приложение.pdb
